@@ -9,6 +9,10 @@
 <img src="homepage.png" alt="home-page" width="640" />
 <img src="product-page.png" alt="product-page" width="640" />
 
+### Deploy
+
+- [Live Site](link)
+
 ### Tech-Stack
 
 - HTML/CSS
@@ -20,11 +24,6 @@
 - owl-carouse 2
 - jquery
 - jquery.isotope v3.0.6
-
-### Deploy
-
-- [Live Site](link)
-- [Live Server](link)
 
 ### Explain technical:
 
