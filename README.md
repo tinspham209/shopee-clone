@@ -45,6 +45,7 @@ Explain technical:
   - Special Price
   - Banner ads
   - New Phones
+  - Blogs
 
 ### After this project
 
