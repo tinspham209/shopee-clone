@@ -6,8 +6,8 @@
 
 ### Screenshot
 
-<img src="homepage.png" alt="home-page" width="640" height="480"/>
-<img src="product-page.png" alt="product-page" width="640" height="480"/>
+<img src="homepage.png" alt="home-page" width="640" />
+<img src="product-page.png" alt="product-page" width="640" />
 
 ### Tech-Stack
 
