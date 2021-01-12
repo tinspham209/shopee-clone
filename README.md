@@ -55,20 +55,30 @@
 git clone https://github.com/tinspham209/shopee-clone
 ```
 
-2. cd to project folder
+2. Install XAMP
+3. copy project to `C:\xampp\htdocs`
+4. Open XAMP Control Panel
+5. Start Apache
+6. Open project by connect to url: `http://localhost:${YOUR_APACHE_PORT}/shopee-clone/index.php`
+
+### For Update HTML Template
+
+1. cd to `HTML Template` folder
 
 ```
-cd ./shopee-clone
+cd ./HTML%20Template
 ```
 
-3. Generate `style.css` from `.scss` file by this line:
+2. Generate `style.css` from `.scss` file by this line:
 
 ```
 npm start
 ```
 
-4. Download extension: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on VSCode
-5. Open project with **Live server**
+3. Download extension: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on VSCode
+4. Open project with **Live Server**
+5. Update with your idea
+6. After that, copy & refactor it in each component on `Template` folder
 
 ### Plan Of Action
 
