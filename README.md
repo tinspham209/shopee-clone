@@ -14,6 +14,18 @@
 - SASS
 - PHP
 - MySQL
+- bootstrap v4.4
+- font-awesome
+- owl-carouse 2
+- jquery
+- jquery.isotope v3.0.6
+
+Explain technical:
+
+- bootstrap: styles css
+- SASS: modern CSS
+- owl-carouse: Slider items
+- isotope: filter products
 
 ### Deploy
 
