@@ -6,7 +6,8 @@
 
 ### Screenshot
 
-- <img src="" alt="is-developing"/>
+<img src="homepage.png" alt="home-page" width="640" height="480"/>
+<img src="product-page.png" alt="product-page" width="640" height="480"/>
 
 ### Tech-Stack
 
@@ -57,11 +58,26 @@ Explain technical:
   - size
   - product description
   - add function up & down product qty
+- Cart page
+  - Shopping cart section
+  - shopping cart items
+  - cart item
+  - product rating
+  - product qty
+  - product price
 
 ### After this project
 
 I have improve my knowledge about
+
+- Review my HTML/CSS knowledge
+
 I have understand about
+
+- How to use bootstrap v4.4
+- use owl-carousel to make slides of products
+- use isotope for filter product by brand
+
 Next Steps:
 
 ### Directory Structure
@@ -81,20 +97,23 @@ Next Steps:
 
 ### Set up
 
-Use the cmd line to clone repo to your computer
+1. Use the cmd to clone repo to your computer
 
 ```
-git clone [github_repo_url]
+git clone https://github.com/tinspham209/shopee-clone
 ```
 
-Use the cmd line to install dependencies.
+2. cd to project folder
 
 ```
-npm install
+cd ./shopee-clone
 ```
 
-Run in cmd for start the dependencies server
+3. Generate `style.css` from `.scss` file by this line:
 
 ```
 npm start
 ```
+
+4. Download extension: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on VSCode
+5. Open project with Live server
