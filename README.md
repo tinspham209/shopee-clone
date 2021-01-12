@@ -46,6 +46,7 @@ Explain technical:
   - Banner ads
   - New Phones
   - Blogs
+  - Footer
 
 ### After this project
 
