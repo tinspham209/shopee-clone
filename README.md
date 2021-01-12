@@ -102,6 +102,9 @@ npm start
   - product rating
   - product qty
   - product price
+  - subTotal section
+  - input quantity
+- Backend
 
 ### After this project
 
