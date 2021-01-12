@@ -1,4 +1,4 @@
-# Project: Shopee
+# Project: E-commerce Mobile Shopee Website
 
 ## Date: 12 - Jan - 21
 
@@ -21,17 +21,55 @@
 - jquery
 - jquery.isotope v3.0.6
 
-Explain technical:
-
-- bootstrap: styles css
-- SASS: modern CSS
-- owl-carouse: Slider items
-- isotope: filter products
-
 ### Deploy
 
 - [Live Site](link)
 - [Live Server](link)
+
+### Explain technical:
+
+- **bootstrap**: styles css
+- **SASS**: modern CSS
+- **owl-carouse**: Slider items
+- **isotope**: filter products
+
+### Directory Structure
+
+```
+.
+├── .gitignore
+├── package.json
+├── README.md
+├── public
+└── src
+    ├── App.js
+    ├── App.css
+    ├── index.css
+    └── index.js
+```
+
+### Set up
+
+1. Use the cmd to clone repo to your computer
+
+```
+git clone https://github.com/tinspham209/shopee-clone
+```
+
+2. cd to project folder
+
+```
+cd ./shopee-clone
+```
+
+3. Generate `style.css` from `.scss` file by this line:
+
+```
+npm start
+```
+
+4. Download extension: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on VSCode
+5. Open project with **Live server**
 
 ### Plan Of Action
 
@@ -79,41 +117,3 @@ I have understand about
 - use isotope for filter product by brand
 
 Next Steps:
-
-### Directory Structure
-
-```
-.
-├── .gitignore
-├── package.json
-├── README.md
-├── public
-└── src
-    ├── App.js
-    ├── App.css
-    ├── index.css
-    └── index.js
-```
-
-### Set up
-
-1. Use the cmd to clone repo to your computer
-
-```
-git clone https://github.com/tinspham209/shopee-clone
-```
-
-2. cd to project folder
-
-```
-cd ./shopee-clone
-```
-
-3. Generate `style.css` from `.scss` file by this line:
-
-```
-npm start
-```
-
-4. Download extension: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on VSCode
-5. Open project with Live server
