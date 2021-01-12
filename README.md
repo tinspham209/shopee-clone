@@ -43,6 +43,7 @@ Explain technical:
   - Banner Main site
   - Top Sale
   - Special Price
+  - Banner ads
 
 ### After this project
 
