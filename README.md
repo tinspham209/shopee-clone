@@ -78,7 +78,8 @@ npm start
 3. Download extension: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on VSCode
 4. Open project with **Live Server**
 5. Update with your idea
-6. After that, copy & refactor it in each component on `Template` folder
+6. After that, copy & refactor new html tag to each component on `Template` folder
+7. Copy file from `./HTML Template/style.css` to `./styles.css`
 
 ### Plan Of Action
 
