@@ -24,7 +24,13 @@
 
 - Initial project
 - Install library: bootstrap, font-awesome, owl-carouse
-- Initial project sass: variables, global style
+- Initial project sass: variables, global style, colors
+- Navbar
+- Setup Owl Carousel
+- Main site
+  - Banner Main site
+  - Top Sale
+  - Special Price
 
 ### After this project
 
