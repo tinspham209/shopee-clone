@@ -47,6 +47,16 @@ Explain technical:
   - New Phones
   - Blogs
   - Footer
+- Product page
+  - Product
+  - Product price
+  - Policy
+  - order details
+  - color
+  - product qty section
+  - size
+  - product description
+  - add function up & down product qty
 
 ### After this project
 
