@@ -104,7 +104,11 @@ npm start
   - product price
   - subTotal section
   - input quantity
-- Backend
+- Install XAMP
+- Install PHPStorm
+- Refactor:
+  - Covert HTML To PHP
+  -
 
 ### After this project
 
