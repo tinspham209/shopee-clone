@@ -44,6 +44,7 @@ Explain technical:
   - Top Sale
   - Special Price
   - Banner ads
+  - New Phones
 
 ### After this project
 
