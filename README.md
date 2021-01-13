@@ -154,6 +154,7 @@ npm start
   - Count
   - Sum
 - Delete Cart Item
+- Handle Duplicate Product
 
 ### After this project
 
@@ -174,5 +175,6 @@ I have understand about
 - update unique product from `db` to `html tag`
 - filter in php
 - Fetch unique itemID & userID when click addToCart
+- Handle Duplicate Product by Unique ID
 
 Next Steps:
