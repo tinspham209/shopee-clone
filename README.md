@@ -123,6 +123,8 @@ npm start
   - `index.html` to `index.php`
   - `product.html` to `product.php`
   - `cart.html` to `cart.php`
+- MySQL connection
+- Closing connection
 
 ### After this project
 
