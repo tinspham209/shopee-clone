@@ -151,6 +151,9 @@ npm start
 - Add to Cart function
 - Display product when addToCart
 - Cart Items
+  - Count
+  - Sum
+- Delete Cart Item
 
 ### After this project
 
