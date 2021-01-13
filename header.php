@@ -58,7 +58,7 @@
     <!-- Primary Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark color-second-bg">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Shopee</a>
+            <a class="navbar-brand" href="index.php">Shopee</a>
             <button
                 class="navbar-toggler"
                 type="button"
