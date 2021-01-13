@@ -4,6 +4,13 @@
 
 ### Functions
 
+- Display Product
+  - Top Sale
+  - Special Price
+  - New Phones
+  - Blogs
+- Add to cart
+
 ### Screenshot
 
 <img src="homepage.png" alt="home-page" width="640" />
@@ -141,7 +148,9 @@ npm start
 - Shuffle products
 - Product page
   - Click unique product on homepage > Render to `product.php`
-- Add to Cart
+- Add to Cart function
+- Display product when addToCart
+- Cart Items
 
 ### After this project
 
@@ -161,5 +170,6 @@ I have understand about
 - connect MySQL to project
 - update unique product from `db` to `html tag`
 - filter in php
+- Fetch unique itemID & userID when click addToCart
 
 Next Steps:
