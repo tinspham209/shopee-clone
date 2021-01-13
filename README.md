@@ -135,6 +135,8 @@ npm start
 - Connect DB to PHP
 - Connect project to product table
 - Update `-top-sale.php` with data
+- Update `-special-price.php` with data
+  - Filter by brand
 
 ### After this project
 
@@ -147,5 +149,12 @@ I have understand about
 - How to use bootstrap v4.4
 - use owl-carousel to make slides of products
 - use isotope for filter product by brand
+- Setup XAMP
+- Setup MySQL myphpadmin
+- Setup PHPStorm for coding and connect to MariaDB
+- how to convert `html` to `php` file
+- connect MySQL to project
+- update unique product from `db` to `html tag`
+- filter in php
 
 Next Steps:
