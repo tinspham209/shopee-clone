@@ -137,6 +137,10 @@ npm start
 - Update `-top-sale.php` with data
 - Update `-special-price.php` with data
   - Filter by brand
+- Update `-new-phones.php` with data
+- Shuffle products
+- Product page
+  - Click unique product on homepage > Render to `product.php`
 
 ### After this project
 
