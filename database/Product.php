@@ -41,4 +41,5 @@ class Product
             return $resultArray;
         }
     }
+
 }
