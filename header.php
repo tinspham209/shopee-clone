@@ -37,6 +37,11 @@
 
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css" />
+    <?php
+
+        include ("database/DBController.php");
+
+    ?>
 </head>
 <body>
 <!-- Start #header -->
