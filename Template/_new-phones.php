@@ -5,14 +5,14 @@ shuffle($product_shuffle);
 <section id="new-phones">
     <div class="container py-5">
         <h4 class="font-rubik font-size-20">New Phones</h4>
-        <hr />
+        <hr/>
         <!-- owl carousel -->
         <div class="owl-carousel owl-theme">
             <?php
             foreach ($product_shuffle as $item) { ?>
                 <div class="item py-2 bg-light">
                     <div class="product font-rale">
-                        <a href="#"
+                        <a href="<?php printf('%s?item_id=%s', 'product.php', $item['item_id']); ?>"
                         ><img
                                     src="<?php echo $item['item_image'] ?? './assets/products/1.png' ?>"
                                     alt="product1"
