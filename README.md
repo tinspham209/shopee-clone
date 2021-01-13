@@ -141,6 +141,7 @@ npm start
 - Shuffle products
 - Product page
   - Click unique product on homepage > Render to `product.php`
+- Add to Cart
 
 ### After this project
 
