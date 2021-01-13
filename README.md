@@ -58,8 +58,10 @@ git clone https://github.com/tinspham209/shopee-clone
 2. Install XAMP
 3. copy project to `C:\xampp\htdocs`
 4. Open XAMP Control Panel
-5. Start Apache
-6. Open project by connect to url: `http://localhost:${YOUR_APACHE_PORT}/shopee-clone/index.php`
+5. Run MySQL, open phpadmin, create new table name: `shopee`
+6. open file `./database/DBController.php`, change config of `$host, $user, $password, $database` to your XAMP config
+7. Start Apache
+8. Open project by connect to url: `http://localhost:${YOUR_APACHE_PORT}/shopee-clone/index.php`
 
 ### For Update HTML Template
 
@@ -118,8 +120,9 @@ npm start
 - Install XAMP
 - Install PHPStorm
 - Refactor:
-  - Covert HTML To PHP
-  -
+  - `index.html` to `index.php`
+  - `product.html` to `product.php`
+  - `cart.html` to `cart.php`
 
 ### After this project
 
