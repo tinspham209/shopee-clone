@@ -29,7 +29,7 @@ shuffle($product_shuffle);
                 <div class="grid-item border <?php echo $item["item_brand"] ?? "Brand"; ?>">
                     <div class="item py-2" style="width: 200px">
                         <div class="product font-rale">
-                            <a href="#">
+                            <a href="<?php printf('%s?item_id=%s', 'product.php', $item['item_id']); ?>">
                                 <img
                                         src="<?php echo $item["item_image" ?? "./assets//products/13.png"]; ?>"
                                         alt="product13"
