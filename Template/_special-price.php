@@ -1,8 +1,11 @@
 <!-- Special Price -->
 <?php
-    $brand = array_map(function ($pro){return $pro['item_brand'];}, $product_shuffle);
-    $unique = array_unique($brand);
-    sort($unique);
+$brand = array_map(function ($pro) {
+    return $pro['item_brand'];
+}, $product_shuffle);
+$unique = array_unique($brand);
+sort($unique);
+shuffle($product_shuffle);
 ?>
 <section id="special-price">
     <div class="container">
@@ -14,7 +17,7 @@
             >
                 <button class="btn is-checked" data-filter="*">All Brand</button>
                 <?php
-                array_map(function ($brand){
+                array_map(function ($brand) {
                     printf('<button class="btn" data-filter=".%s">%s</button>', $brand, $brand);
                 }, $unique)
                 ?>
