@@ -38,9 +38,7 @@
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css" />
     <?php
-
-        include ("database/DBController.php");
-
+        require("functions.php");
     ?>
 </head>
 <body>
