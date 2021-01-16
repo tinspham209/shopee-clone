@@ -14,7 +14,7 @@
 ### Screenshot
 
 <img src="homepage.png" alt="home-page" width="640" />
-<img src="product-page.png" alt="product-page" width="640" />
+<img src="product-cart-screenshot.png" alt="product-page" width="640" />
 
 ### Deploy
 
@@ -44,14 +44,35 @@
 ```
 .
 ├── .gitignore
-├── package.json
 ├── README.md
-├── public
-└── src
-    ├── App.js
-    ├── App.css
-    ├── index.css
-    └── index.js
+├── cart.php
+├── footer.php
+├── functions.php
+├── header.php
+├── index.js
+├── style.css
+├── assets
+├── database
+  ├── Cart.php
+  ├── DBController.php
+  ├── Product.js
+  └── shopee.sql
+├── HTML Template
+└── Template
+  ├── notFound
+    ├── _cart_notFound.php
+    └── _wishlist_notFound.php
+  ├── _banner-ads.php
+  ├── _banner-area.php
+  ├── _blogs.php
+  ├── _cart-template.php
+  ├── _new-phones.php
+  ├── _products.php
+  ├── _special-price.php
+  ├── _top-sale.php
+  ├── _wishlist_template.php
+  └── ajax.php
+
 ```
 
 ### Set up
