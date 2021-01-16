@@ -1,15 +1,17 @@
 # Project: E-commerce Mobile Shopee Website
 
-## Date: 12 - Jan - 21
+## Date: 12 - Jan > 16 - Jan - 21
 
 ### Functions
 
-- Display Product
+- Display Products
   - Top Sale
   - Special Price
   - New Phones
   - Blogs
+- View Product
 - Add to cart
+- Wishlist
 
 ### Screenshot
 
