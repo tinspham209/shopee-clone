@@ -15,7 +15,7 @@ include("Template/_special-price.php");
 ?>
 
 <?php
-include("Template/_banner_ads.php");
+include("Template/_banner-ads.php");
 ?>
 
 <?php
