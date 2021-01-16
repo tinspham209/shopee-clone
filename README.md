@@ -92,6 +92,21 @@ git clone https://github.com/tinspham209/shopee-clone
 8. Start Apache
 9. Open project by connect to url: `http://localhost:${YOUR_APACHE_PORT}/shopee-clone/index.php`
 
+Example: My Apache PORT: 8888, 8899 & MySQL PORT: 8899
+
+```php
+//./database/DBController.php
+  protected $host = 'localhost:8899';
+  protected $user = 'root';
+  protected $password = '';
+  protected $database = "shopee";
+
+```
+
+main page url: `http://localhost:8888/shopee-clone/index.php`
+
+phpmyadmin url: `http://localhost:8888/phpmyadmin`
+
 ### For Update HTML Template
 
 1. cd to `HTML Template` folder
@@ -183,7 +198,7 @@ npm start
 - Handle Empty Cart
 - Handle button `add to cart` on `product.php` when item is on cart
 
-### After this project
+## After this project
 
 I have improve my knowledge about
 
@@ -205,3 +220,5 @@ I have understand about
 - Handle Duplicate Product by Unique ID
 
 Next Steps:
+
+- Deploy
