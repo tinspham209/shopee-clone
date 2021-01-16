@@ -65,9 +65,9 @@ git clone https://github.com/tinspham209/shopee-clone
 2. Install XAMP
 3. copy project to `C:\xampp\htdocs`
 4. Open XAMP Control Panel
-5. Run MySQL, open phpadmin, create new table name: `shopee`
-6. open file `./database/DBController.php`, change config of `$host, $user, $password, $database` to your XAMP config
-7. open phpadmin, import file `./database/shopee.sql` to database. After that, we have 4 tables: cart, product, user, wishlist
+5. Run MySQL, open myphpadmin, create new table name: `shopee`
+6. open phpadmin, import file `./database/shopee.sql` to database. After that, we have 4 tables: cart, product, user, wishlist
+7. open file `./database/DBController.php`, change config of `$host, $user, $password, $database` to your XAMP config
 8. Start Apache
 9. Open project by connect to url: `http://localhost:${YOUR_APACHE_PORT}/shopee-clone/index.php`
 
@@ -155,6 +155,12 @@ npm start
   - Sum
 - Delete Cart Item
 - Handle Duplicate Product
+- Handle SubTotal products
+- Wishlist UI
+- Wishlist add to cart
+- Shopping Cart Add to Wishlist
+- Handle Empty Cart
+- Handle button `add to cart` on `product.php` when item is on cart
 
 ### After this project
 
